@@ -4,7 +4,7 @@ import { View, ImageBackground, Image, StyleSheet, Text } from 'react-native';
 import {RectButton} from 'react-native-gesture-handler';
 import {useNavigation} from '@react-navigation/native';
 
-
+//Construir select para react-native com picker-select
 const Home = () => {
     const navigation = useNavigation();
     
